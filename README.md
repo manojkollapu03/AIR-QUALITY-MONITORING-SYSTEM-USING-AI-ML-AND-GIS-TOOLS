@@ -59,7 +59,7 @@ streamlit run app.py
 4. Access the dashboard
 
 Open your browser and go to:
-👉 http://localhost:8501
+👉 http://localhost:8502
 
 📁 Project Structure
 📦 Air-Quality-Monitoring-System
