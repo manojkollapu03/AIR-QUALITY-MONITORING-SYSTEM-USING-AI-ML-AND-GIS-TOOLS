@@ -19,22 +19,6 @@ This project aims to raise public awareness about air pollution and assist gover
 
 🧩 Streamlit Dashboard – Clean and interactive web interface for end users.
 
-🧠 System Architecture
-Data Sources (Kaggle Dataset, APIs)
-        ↓
-Data Preprocessing (Cleaning, Validation)
-        ↓
-AI/ML Prediction Engine (Random Forest, XGBoost, LSTM)
-        ↓
-Dashboard Application (Streamlit)
-        ↓
- ┌───────────────┬──────────────────┬────────────────────┐
- │ Map Integration│ Voice Synthesis  │ Health Advisory    │
- │ (Folium + GIS) │ (gTTS)           │ (AQI-based Alerts) │
- └───────────────┴──────────────────┴────────────────────┘
-        ↓
-          →  End Users (Visuals, Audio, Insights)
-
 🧩 Tech Stack
 Category	Tools / Libraries
 Frontend	Streamlit
