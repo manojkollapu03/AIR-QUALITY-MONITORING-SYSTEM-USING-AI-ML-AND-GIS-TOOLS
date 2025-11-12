@@ -1,0 +1,20 @@
+
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
+plotly-express>=0.4.1
+folium>=0.14.0
+streamlit-folium>=0.13.0
+gtts>=2.3.0
+pydub>=0.25.1
+python-dateutil>=2.8.2
+pytz>=2023.3
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+scipy>=1.11.0
+
+
+openweather API key : 4dd0bf590cd49509bb52a00399c2555f
